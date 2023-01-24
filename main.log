@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  18 JAN 2023 12:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  24 JAN 2023 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -531,16 +531,36 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/logo.jpg>])
+{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/logo.jpg>]) (ma
+in.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[1
+
+
+]
 \openout2 = `body.aux'.
 
  (body.tex
-<imagenes/figura1.jpg, id=11, 417.35925pt x 310.761pt>
+<imagenes/figura1.jpg, id=17, 417.35925pt x 310.761pt>
 File: imagenes/figura1.jpg Graphic file (type jpg)
 <use imagenes/figura1.jpg>
 Package pdftex.def Info: imagenes/figura1.jpg  used on input line 30.
 (pdftex.def)             Requested size: 142.26326pt x 142.26422pt.
-<imagenes/figura2.jpg, id=12, 387.849pt x 290.2845pt>
+<imagenes/figura2.jpg, id=18, 387.849pt x 290.2845pt>
 File: imagenes/figura2.jpg Graphic file (type jpg)
 <use imagenes/figura2.jpg>
 Package pdftex.def Info: imagenes/figura2.jpg  used on input line 35.
@@ -558,7 +578,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--40
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<imagenes/figura3.png, id=13, 393.8715pt x 295.1025pt>
+<imagenes/figura3.png, id=19, 393.8715pt x 295.1025pt>
 File: imagenes/figura3.png Graphic file (type png)
 <use imagenes/figura3.png>
 Package pdftex.def Info: imagenes/figura3.png  used on input line 43.
@@ -571,9 +591,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[1
-
-
+[2
 
  <./imagenes/figura1.jpg>]
 
@@ -584,7 +602,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2 <./imagenes/figura2.jpg> <./imagenes/figura3.png>])
+[3 <./imagenes/figura2.jpg> <./imagenes/figura3.png>]
+<imagenes/grafico.jpeg, id=29, 508.90125pt x 298.11375pt>
+File: imagenes/grafico.jpeg Graphic file (type jpg)
+<use imagenes/grafico.jpeg>
+Package pdftex.def Info: imagenes/grafico.jpeg  used on input line 95.
+(pdftex.def)             Requested size: 341.44351pt x 227.62413pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -593,18 +617,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3] (main.aux (cover.aux)
+[4 <./imagenes/grafico.jpeg>])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5] (main.aux (cover.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
  (body.aux)) ) 
 Here is how much of TeX's memory you used:
- 5701 strings out of 475380
- 87682 string characters out of 2786587
- 441142 words of memory out of 3000000
- 27004 multiletter control sequences out of 15000+600000
+ 5730 strings out of 475380
+ 88273 string characters out of 2786587
+ 449142 words of memory out of 3000000
+ 27027 multiletter control sequences out of 15000+600000
  481978 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,287b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,12n,62p,517b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\alexv\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
 /dpi600\tcrm1095.pk> <C:\Users\alexv\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\larm1095.pk> <C:\Users\alexv\AppData\Local\MiKTeX\fonts/pk/ljfour/l
@@ -617,10 +650,11 @@ KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\alexv\AppData\Loca
 l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Program Files/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb>
-Output written on main.pdf (4 pages, 599150 bytes).
+ts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pf
+b>
+Output written on main.pdf (6 pages, 640768 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
+ 346 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
